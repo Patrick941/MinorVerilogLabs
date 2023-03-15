@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/patrick/6-bit-full-adder/6-bit-full-adder.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sim_1/new/FullAdder2bitTB.v,1676627186,verilog,,,,testbench2bit,,,,,,,,
+/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sim_1/new/RippleAdder2bitTB.v,1677169615,verilog,,,,RippleAdder6bitTB,,,,,,,,
+/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v,4638903844,verilog,,/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Ripple_Adder_6bit.v,,FullAdder1bit,,,,,,,,
+/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Ripple_Adder_6bit.v,1677164352,verilog,,/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sim_1/new/RippleAdder2bitTB.v,,Ripple_Adder_6bit,,,,,,,,

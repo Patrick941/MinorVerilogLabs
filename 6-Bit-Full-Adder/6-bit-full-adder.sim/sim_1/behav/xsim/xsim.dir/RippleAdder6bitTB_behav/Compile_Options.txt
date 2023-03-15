@@ -1,0 +1,1 @@
+-wto "bdf44faf90184cf3a4369bdb3db2010d" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "RippleAdder6bitTB_behav" "xil_defaultlib.RippleAdder6bitTB" "xil_defaultlib.glbl" -log "elaborate.log" 

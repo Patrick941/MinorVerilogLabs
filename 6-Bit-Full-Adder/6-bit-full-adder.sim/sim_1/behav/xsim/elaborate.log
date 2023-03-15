@@ -1,0 +1,21 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /home/patrick/Vivado/Vivado/2018.3/bin/unwrapped/lnx64.o/xelab -wto bdf44faf90184cf3a4369bdb3db2010d --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot RippleAdder6bitTB_behav xil_defaultlib.RippleAdder6bitTB xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Ripple_Adder_6bit.v" Line 1. Module Ripple_Adder_6bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" Line 1. Module FullAdder1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" Line 1. Module FullAdder1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" Line 1. Module FullAdder1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" Line 1. Module FullAdder1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" Line 1. Module FullAdder1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" Line 1. Module FullAdder1bit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.FullAdder1bit
+Compiling module xil_defaultlib.Ripple_Adder_6bit
+Compiling module xil_defaultlib.RippleAdder6bitTB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot RippleAdder6bitTB_behav

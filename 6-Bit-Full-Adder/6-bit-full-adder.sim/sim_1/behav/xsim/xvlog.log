@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Full_Adder_1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sources_1/new/Ripple_Adder_6bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ripple_Adder_6bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/6-bit-full-adder/6-bit-full-adder.srcs/sim_1/new/RippleAdder2bitTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RippleAdder6bitTB
