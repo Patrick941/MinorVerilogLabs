@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GTcomparator1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GTcomparator2bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EQcomparator1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EQcomparator2bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/LabB/LabB.srcs/sources_1/new/comparator8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GTEcomparator8bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/LabB/LabB.srcs/sim_1/new/testbench8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench8bit

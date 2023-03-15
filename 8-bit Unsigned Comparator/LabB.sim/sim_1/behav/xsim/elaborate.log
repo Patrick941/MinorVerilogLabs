@@ -1,0 +1,46 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /home/patrick/Vivado/Vivado/2018.3/bin/unwrapped/lnx64.o/xelab -wto c52a66a736b04ffbbb0a9051c7756b5b --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench8bit_behav xil_defaultlib.testbench8bit xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/comparator8bit.v" Line 1. Module GTEcomparator8bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v" Line 1. Module EQcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v" Line 1. Module GTcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v" Line 1. Module EQcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v" Line 1. Module GTcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v" Line 1. Module EQcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v" Line 1. Module GTcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v" Line 1. Module EQcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v" Line 1. Module GTcomparator2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v" Line 2. Module GTcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v" Line 1. Module EQcomparator1bit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.EQcomparator1bit
+Compiling module xil_defaultlib.EQcomparator2bit
+Compiling module xil_defaultlib.GTcomparator1bit
+Compiling module xil_defaultlib.GTcomparator2bit
+Compiling module xil_defaultlib.GTEcomparator8bit
+Compiling module xil_defaultlib.testbench8bit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench8bit_behav

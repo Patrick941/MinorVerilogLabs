@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/patrick/LabB/LabB.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sim_1/new/2-bit Greater or Equal TB.v,1676583741,verilog,,,,testbench2bit,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sim_1/new/testbench8bit.v,1676585129,verilog,,,,testbench8bit,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sources_1/new/2bit Comparator.v,1676492264,verilog,,/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v,,GTcomparator1bit,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sources_1/new/8-bit Greater or Equal.v,1676581944,verilog,,/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v,,GTcomparator2bit,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator1bit.v,1676466980,verilog,,/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v,,EQcomparator1bit,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sources_1/new/EQcomparator2bit.v,1676492639,verilog,,/home/patrick/LabB/LabB.srcs/sources_1/new/comparator8bit.v,,EQcomparator2bit,,,,,,,,
+/home/patrick/LabB/LabB.srcs/sources_1/new/comparator8bit.v,1676489161,verilog,,/home/patrick/LabB/LabB.srcs/sim_1/new/testbench8bit.v,,GTEcomparator8bit,,,,,,,,
