@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/patrick/Verilog/LabFPartA/LabFPartA.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/patrick/Verilog/LabFPartA/LabFPartA.srcs/sim_1/new/dtypeTB.v,1679683899,verilog,,,,dtypeTB,,,,,,,,
+/home/patrick/Verilog/LabFPartA/LabFPartA.srcs/sources_1/new/clock20ns.v,1679683320,verilog,,/home/patrick/Verilog/LabFPartA/LabFPartA.srcs/sources_1/new/dtypeReset.v,,clock20ns,,,,,,,,
+/home/patrick/Verilog/LabFPartA/LabFPartA.srcs/sources_1/new/dtypeReset.v,1679684671,verilog,,/home/patrick/Verilog/LabFPartA/LabFPartA.srcs/sim_1/new/dtypeTB.v,,dtypeReset,,,,,,,,
