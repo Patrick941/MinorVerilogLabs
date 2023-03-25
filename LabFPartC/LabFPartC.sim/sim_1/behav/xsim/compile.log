@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sources/lfsr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lfsr
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sources/tracker.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tracker
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sims/lfsrTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lfsr_tb

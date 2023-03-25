@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/patrick/Verilog/LabFPartC/LabFPartC.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sims/lfsrTB.v,1679770854,verilog,,,,lfsr_tb,,,,,,,,
+/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sources/lfsr.v,1679774128,verilog,,/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sources/tracker.v,,lfsr,,,,,,,,
+/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sources/tracker.v,1679771496,verilog,,/home/patrick/Verilog/LabFPartC/LabFPartC.srcs/sims/lfsrTB.v,,tracker,,,,,,,,
